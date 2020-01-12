@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "voltaic-cirrus-264818",
+  "private_key_id": "421319795eb3b5275ac2b9d7ebcf7826725f5738",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCleHoWB5Bxqnab\nOhrR8qXAZJX4rr36Mz8sdM1uJlfW3TMBGv5H1DREpj2KY6MmmOPA9G2vLWn7ZIxU\n+KuEi+MI+Qe2JA+u3TZeaVRT4o7ZcXqjZ1syYtPqPEGWMSGV2EsXYfrcPqORDXxU\n9lmto8BPfxwrwfmSt9xxqt6wIJJRi3cme2BhFNwEcBOwQ9/0mjgmP6maDAfyXKvx\nRptx3VfIerb0JjUoe4mtQyTMIHBGW0q2vOYRhwnNhjMyxqMu+U2Ky3jIPojL9It6\npyIig5qVPYsL95SjSh5l5ACLDQsp7+qM1tQIn+dIWD6+3IWR9MkntDnMdV47Rk+v\nRYXLeXKTAgMBAAECggEAUBbafJwnqSR5KNO8VH7uBAuLXSTy1c2FF7bnEZfkbx58\nR94xUkHfFJUj9z4XoyBgKC4GgsHn6KI3nA8KMWrlthuWxG1628e9P4AarUlcm9ll\nov5tMRuNd3O3yQK5v0XDvqsRWRXGZHhTA+qC6Fz4QWIEGBfYfM+aFrg99aCmQWoI\nEaum9WVmrh5PUQpFzlqbhjVQek4V9TlAqUjs3Vh4gqUdaZk+NDC/5LKbOkqIOyX8\nVxB9ol9792JyuoQTzzyp8XeqFw+drzk6Yuiuwalnb4FcUWlFnsEYiMseuAJ3LxZz\nOvsQMKba4KiZH2Ve2KyFQN5YiIU6PuMulLyetBks8QKBgQDfrhaqIdRlLv1XkSgP\n91AsES0HREJqab2ed8XShlouhAVrgfwGBIH1Ml4UFsxaVfAbP/SpDJ7tpurwUXaT\n21GJctBBbMMFd4VaPybldGtHmhUal9INocVVemckyYK7qTL6L498nBLBqUf8cPTQ\nEgP8j9IB9b/STlr7tLZp/y/ewwKBgQC9YTmrwlNmpvyH6zPbDpv1qfqKzfwib58K\nnQM08PkuYheONRYHmYWhbflTq4VNrCgfrobD0Eg29DcMjtV5fM2N+t/M4a1LOZ3n\nRwJGiAZ0jhhR5IDUHX9RnFTDnbrioawxsg+TuqILlfjopz/hlJcNSIBjb8OQGNPM\nfOuHPiJ/8QKBgAFWgTwzR5nzVgCYFa1CxW/+Ck7o0ZzhVQkFnmFL/G4azA2AkYlX\nrY9R5c4o9L/1k6IWF9iLAshZHz6gvhzUSwCPdz9s7x2xQVLw3cKxl5KuEUI/djou\npYeFW+iUa/vDX1KvxiPwqwwNfyi7ZDt6YBu6oH7ygVs4rMKkqhKoPBkRAoGAQbX+\noM5oyfGfJjpCX/wNuYwlVwxqNDiu4qvgdPo4PBPlQH7DChgG+iCCprmZI35c3cFd\nGYynwgmzIDRfdiwL1vv5s8mKq9NuKtXEwFxqgP7dCW1UFkW168dm0glk00ZtzUCP\njx7vIz4ChBekXs2ELCPACMC7BsDWnNmrj93LcsECf3NvOfRZl583a6d+X0WQTkw4\ngWRC13g5Gp6DCCA8unkTwmiH2/UnrkLekxzAe7WZZmymujDd+uihsa205blLBakz\nJAe1tYBcvv3S/gVf7XrZuQk6kPpOAguLiHIGsA2LsG22MQ8Q4CNlxX0jgpcDuhUU\nZxvCOFGcQwer6fRkRl0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapiproject@voltaic-cirrus-264818.iam.gserviceaccount.com",
+  "client_id": "100598314103710859392",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapiproject%40voltaic-cirrus-264818.iam.gserviceaccount.com"
+}
