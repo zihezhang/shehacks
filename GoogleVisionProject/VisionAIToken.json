@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mystic-creek-264818",
+  "private_key_id": "4e9a5b9f0f67a3066b7c874bef876f2c728db04b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDp7YcbL/JPP5ww\nmQeIV7hIk7otIKBKkYCl8cIiOCMMrGBpKzRJIM2I2RGaM2nQ+Q2ya4PCcsjHQkga\ndXa2LkS5zLlamqt8+jrFQfeZys9QMjbEQg6JLnCx/tQLf1SC/cItPMZXo7IMO+8l\nMuFOuF/LDq4EEyaJxJeD20tOFfpL7etGjDgx/7NFhCGAsP2aMDibSimhzwQ1qFRK\nYuL0CnDE8yYSy3h1OSUNqV6xtpX/UF3//6Ec9J8l9l4lseuYCgm4zWCQx9g2MTa0\nzlLk56DeFV7Vanb+08zJXL4XEMfumHD7xhZTu8NRZ9DW83kLcr1cKs8U6iyeXQ79\nqEsTafc1AgMBAAECggEAMUCcFirRq0La2VaXAetqNwm3hMHeTeT1v7q3o6nLI2N1\nxx7cGtuHutztOljB2khdzGebrciqIl3/vWZm8LOsL6x9iCiRm7Y5woeBoMVVQe7Y\nnhjEY7i97JQZRDRycEQKaqjln9Us6yuBTgU47/Cc5q14EQ6RKieUuSPmZpH1CaAu\nvV4R6qCJ6aSw6BTEeTGOvD2kWru8ljlZo+PediiSLoD1h8syyZVkY2WYok8MRz7a\nRbU9DPDRS6FHWXRj1nBwwlmvOj/JNaBVmKGrFrdHqHD1rsvcMqlYreWOJVwEGZi3\nIihcJFgCGBEzXEahFUT9PZoPlw21FDsUXZzuKkSAfwKBgQD49nbE7wbfOLWDWyFL\ndUUCivzPra92Rxneblc1/MgVUAbm1E1JsrBi0hsor6mZlBgCQ0+Tn7Kjq0Ae8743\nP1VxZQ6pKF/t3SsYYXVERwZV+K1rFPgqZVtou8+qcrGZYcGUDZX0/t7Fiz1qSTvG\nkQMWAnikZNc+YdSLWw7GswCWHwKBgQDwikTKpDBuHi4ImOjlfVmQcBU8oiCy4WA9\nHu2V+n79lnatfTTJWGshaYBs+0aNtYydg8InxnNkp+Lud8LxRIFxAitsvlnrC4v9\nrGMIzXYDgEXb8/6V/AWIpMnmrlwE8+v4xWshsuLAyjIEkVXmJkeSAPY+EsJ+JFZp\nJcV2oBdAKwKBgBacS60XCEi9nb6QSDXSMLJKbStvWsAjNPY+jy0YCBPncLkGDv7i\ne6J98nl/eqe4C3YpJtEBb/ftVaV5/YyG8/uYcfxq7ktsCr3sG/pXePvV2eofvWoc\nSnD4naOdRwPnHO2VTkkx3ImUW7+LZyJhiSY2kz5a6jGAMQ1296CUITmBAoGABrhm\nOZ8it0DimlzjTN4WrYFkJoCFF1pSnQKLMsB/4cfdYvV3jxSIUbOn4eOXUgg7eH8g\n4omZ2bsTDQSNjr4SO70Kx4v96SI2dAzn62wKGwjvarjDaR9UbD/mYCqI6Z6C/j1N\nw/BCg45inVwOIVL6durN9mgBxRJw05k5jhnk7GcCgYEAo53r+lz1RCKY/q0AeUJ3\nZJ4YpGW6dQemidQjN3HQ5vcxFpLU5eZ8qclXpoF20Nw2eS2tckwMBiCDKCh6Mj5t\nK4kXSbB76dZHvro2SuxnCJfo78SZy5B0y5YT9XH8FA7rfU7RV+Ljwfx4HrCxKXs0\n/fvvHFBkU1Pw5YnpGOmGBfM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "animal-classifier@mystic-creek-264818.iam.gserviceaccount.com",
+  "client_id": "106688848831021915885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/animal-classifier%40mystic-creek-264818.iam.gserviceaccount.com"
+}
